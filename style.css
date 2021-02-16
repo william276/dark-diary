@@ -18,6 +18,7 @@
 body {
 /*    background: linear-gradient(45deg, #8e2de2, #4a00e0);
     background-repeat: no-repeat;*/
+     background: #0984e3;
 }
 
 p {
@@ -182,7 +183,7 @@ img {
              MAIN HEADER
 **************************************/
 .main-header {
-    background: #9b59b6;
+    background: #0984e3;
     padding: 15px 0;
 }
 
@@ -238,4 +239,8 @@ img {
    
 }
 
+h2,
+h4 {
+    color: #000;
+}
 
